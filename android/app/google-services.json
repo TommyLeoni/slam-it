@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210282550367",
+    "firebase_url": "https://slam-it-183e3.firebaseio.com",
+    "project_id": "slam-it-183e3",
+    "storage_bucket": "slam-it-183e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210282550367:android:e991158620e589e19e77ea",
+        "android_client_info": {
+          "package_name": "com.tommy.slamit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210282550367-083kc8qkaashvoqlhbsu2a2eb8c7fdsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXr2QECXHVWlIZ7a4jOoE_TBSlzwR2VoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210282550367-083kc8qkaashvoqlhbsu2a2eb8c7fdsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
